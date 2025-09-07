@@ -19,6 +19,8 @@ Mile to Km Converter (Tkinter)  A beginner-friendly **Python Tkinter GUI project
 ## ▶️ Usage
 1. Clone the repository:
  git clone https://github.com/your-username/mile-to-km-converter.git
+you can also use this link: https://github.com/like-supreme/Mile-To-Km-Converter-using-TKinter.git
+
  cd mile-to-km-converter
 Run either version:
 
